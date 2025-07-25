@@ -1,8 +1,9 @@
 # Erro da porta 80, não aparece a página do Laravel no browser do navegador.
 
-#### Rodando o comando "sail up -d" ou "php -S localhost:8000". O erro pode ser diferente, porém a página do Laravel não mostra conteúdo, aparentando um erro de conexão, mesmo tudo no terminal não indicar erros. Porém a página do "Vite" roda no browser normalmente (como o comando "npm run dev").
+##### Rodando o comando "sail up -d" ou "php -S localhost:8000". O erro pode ser diferente, porém a página do Laravel não mostra conteúdo, aparentando um erro de conexão, mesmo tudo no terminal não indicar erros. 
+##### Porém a página do "Vite" roda no browser normalmente sem problema (com o comando "npm run dev").
 
-#### Exemplo abaixo:
+#### Exemplo de erro abaixo:
 > "Error response from daemon: driver failed programming external connectivity on endpoint"
 
 **Seguir os comandos abaixo dentro do WLS2, até o final**
